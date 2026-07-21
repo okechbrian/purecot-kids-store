@@ -1,0 +1,1 @@
+Full home page with hero and featured
