@@ -1,1 +1,3 @@
-[content placeholder for full push - use multiple calls or zip]
+PureCot Kids Store MVP
+
+See full details in repo.
